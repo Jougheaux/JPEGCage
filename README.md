@@ -3,15 +3,15 @@ This cage was originally designed for my blaster [JPEG](https://github.com/Jough
 
 
 ## Pictures
-<img src="JPEGCage.png">
-<img src="JPEGWheels.jpg">
+<img src="Images\JPEGCage.png" width=500>
+<img src="Images\JPEGWheels.jpg" width=500> 
 
 ## Implementations
 <details>
 <summary> (Wheel/Motor Spacing)</summary>
 
 Motor spacing from bore shown below, use for implementing JPEG wheels in other builds:  
-<img src="CageSpacing.png">
+<img src="Images\CageSpacing.png">
 
 </details>
 
